@@ -1,3 +1,2 @@
 resources:
-  - deployment.yaml
-  - service.yaml
+  - syrius-v1-config.yaml
